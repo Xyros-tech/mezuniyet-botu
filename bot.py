@@ -441,7 +441,23 @@ def sss_otomatik_yukle():
         "fatura": "Faturanız kargo ile birlikte gönderilir. E-fatura için hesap ayarlarınızdan talep edebilirsiniz.",
         "kupon kodu": "Kupon kodlarınızı ödeme sayfasında 'Kupon Kodu' bölümüne girerek kullanabilirsiniz.",
         "puan sistemi": "Her alışverişinizde puan kazanırsınız. 1000 puan = 10 TL indirim olarak kullanılabilir.",
-        "yorum yapma": "Ürün yorumları için üye girişi yapmanız gerekmektedir. Yorumlar moderasyon sonrası yayınlanır."
+        "yorum yapma": "Ürün yorumları için üye girişi yapmanız gerekmektedir. Yorumlar moderasyon sonrası yayınlanır.",
+        "kargo firması": "Anlaşmalı kargo firmalarımız: Yurtiçi Kargo, Aras Kargo ve MNG Kargo. Teslimat süresi 2-3 iş günüdür.",
+        "kargo takip": "Kargo takip numaranızı SMS ile alacaksınız. Takip için kargo firmasının web sitesini kullanabilirsiniz.",
+        "kapıda ödeme": "Kapıda ödeme seçeneği mevcuttur. Ek ücret 5 TL'dir. Sadece nakit ödeme kabul edilir.",
+        "kredi kartı taksit": "3, 6, 9 ve 12 taksit seçenekleri mevcuttur. Taksit ücreti yoktur.",
+        "havale bilgileri": "Havale bilgileri: Banka: X Bankası, IBAN: TR00 0000 0000 0000 0000 0000 00, Alıcı: Şirket Adı",
+        "sipariş iptal": "Siparişinizi kargo firmasına teslim edilmeden önce iptal edebilirsiniz. Müşteri hizmetlerimizle iletişime geçin.",
+        "ürün hasarı": "Kargo sırasında hasar gören ürünler için fotoğraf çekip müşteri hizmetlerimizle iletişime geçin.",
+        "eksik ürün": "Eksik ürün durumunda kargo paketini açmadan fotoğraf çekip müşteri hizmetlerimizle iletişime geçin.",
+        "yanlış ürün": "Yanlış ürün gönderilmesi durumunda ücretsiz değişim yapılır. Müşteri hizmetlerimizle iletişime geçin.",
+        "ürün arızası": "Ürün arızası durumunda garanti kapsamında ücretsiz tamir veya değişim yapılır.",
+        "teknik destek": "Teknik destek için WhatsApp: 0555 123 45 67 veya e-posta: destek@sirket.com adresini kullanabilirsiniz.",
+        "ürün kullanım kılavuzu": "Ürün kullanım kılavuzları ürün detay sayfalarında PDF formatında bulunmaktadır.",
+        "aksesuar": "Ürün aksesuarları ayrı satılır. Aksesuar listesi ürün detay sayfalarında bulunmaktadır.",
+        "yedek parça": "Yedek parça talepleri için müşteri hizmetlerimizle iletişime geçin. Garanti kapsamında ücretsizdir.",
+        "ürün videosu": "Ürün tanıtım videoları ürün detay sayfalarında ve YouTube kanalımızda bulunmaktadır.",
+        "canlı destek": "Canlı destek hizmetimiz hafta içi 09:00-18:00 saatleri arasında mevcuttur."
     }
     
     sayac = 0
